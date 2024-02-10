@@ -78,21 +78,31 @@
 
 Л/П/ЛР - Литвинов Владимир Геннадьевич
 
+[Материалы](https://github.com/SSAU-gilera/bachelor-3-automataTheory)
+
 ### Объектно-ориентированное программирование
 
 Л/П - Баландин Александр Васильевич
+
+[Материалы](https://github.com/SSAU-gilera/bachelor-3-OOP)
 
 ### Алгоритмы и анализ сложности
 
 Л/ЛР - Жданова Александра Николаевна
 
+[Материалы](https://github.com/SSAU-gilera/bachelor-3-algorithms)
+
 ### Теория графов и её применения
 
 Л/П - Богданов Павел Сергеевич
 
+[Материалы](https://github.com/SSAU-gilera/bachelor-3-graphs)
+
 ### Практикум на ЭВМ
 
 ЛР - Сопченко Елена Вильевна
+
+[Материалы](https://github.com/SSAU-gilera/bachelor-3-game)
 
 ### Теория вероятностей и математическая статистика
 
