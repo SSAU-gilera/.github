@@ -4,8 +4,7 @@
 
 ## 1 семестр
 
-### Основы программирования
-- [Материалы](https://github.com/SSAU-gilera/bachelor-1-OP)
+**Основы программирования** - [Материалы](https://github.com/SSAU-gilera/bachelor-1-OP)
 
 Л/П/ЛР - Котенёва Светлана Эдуардовна
 
